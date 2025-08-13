@@ -9,7 +9,7 @@
 
 ## مصدر البيانات
 
-تم استخدام بيانات الرخص الإنشائية من [منصة البيانات المفتوحة](https://open.data.gov.sa/ar/datasets/view/51257f0b-b79a-4c0c-940b-4e91b022ca88)، والتي تحتوي على معلومات تفصيلية حول:
+تم استخدام بيانات الرخص الإنشائية من [منصة البيانات المفتوحة](https://open.data.gov.sa/ar/publishers/53b99dec-dc5c-4da7-b0f4-a5a381420dba)، والتي تحتوي على معلومات تفصيلية حول:
 
 - تواريخ تقديم الطلبات
 - الغرض من الطلب
@@ -84,6 +84,7 @@
 [رابط التطبيق المنشور]([رابط_النشر_Streamlit](https://constructionlicenses-mw4mszypfmgwrjkqczzzsx.streamlit.app/))
 
 <img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/e7b1e8a9-ef60-497b-8303-85014cbbb740" />
+
 
 
 
